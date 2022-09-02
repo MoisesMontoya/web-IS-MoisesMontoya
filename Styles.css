@@ -1,0 +1,49 @@
+body {
+    width: 60vw;
+    background-color: rgb(15, 126, 146);
+  }
+  /* Titulo  */
+  h1 {
+    font-size: 36px;
+    text-align: center;
+    border-bottom: 4px solid black;
+  }
+  
+  /* Cambios en el indice Referenciado  */
+  .indice-lista {
+      border: 2px solid gray;
+      display: inline-block;
+      padding: 10px 25px;
+      margin-bottom: 20px;
+      border-radius: 0.5rem;
+  }
+    
+  /* Edicion del parrafò */
+  p {
+    text-align: justify;
+    font-size: 20px;
+  }
+  
+  /* Cambio en Logo */
+
+  .imagen-vikingos {
+    width: 200px;
+    height: auto;
+  }
+
+
+  /* Lista no ordenada */
+  ul {
+    list-style-type: square;
+  }
+  
+  /* Formato de la tabla */
+  td {
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+  td:first-child {
+    font-weight: bold;
+  }
+  
